@@ -3,7 +3,7 @@
 > Descarga emojis y stickers de tus servidores Discord de forma masiva en un único archivo ZIP.
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/stargame123/Discord-Emoji-Downloader?style=social)](https://github.com/stargame123/Discord-Emoji-Downloader)
+[![GitHub stars](https://img.shields.io/github/stars/douglasvelezv/Discord-Emoji-Downloader?style=social)](https://github.com/douglasvelezv/Discord-Emoji-Downloader)
 
 ## 🚀 Características
 
@@ -64,7 +64,7 @@ setInterval(() => {
 
 ### Opción 1: Usar la Aplicación Web
 
-1. **Abre la aplicación**: Ve a [stargame123.github.io/Discord-Emoji-Downloader](https://stargame123.github.io/Discord-Emoji-Downloader/)
+1. **Abre la aplicación**: Ve a [douglasvelezv.github.io/Discord-Emoji-Downloader](https://douglasvelezv.github.io/Discord-Emoji-Downloader/)
 
 2. **Paso 1 - Autenticación**
    - Ingresa tu token de usuario de Discord
@@ -101,7 +101,7 @@ setInterval(() => {
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/stargame123/Discord-Emoji-Downloader.git
+git clone https://github.com/douglasvelezv/Discord-Emoji-Downloader.git
 
 # Entrar al directorio
 cd Discord-Emoji-Downloader
@@ -259,16 +259,16 @@ Las contribuciones son bienvenidas. Para cambios grandes:
 
 Si encuentras problemas o tienes sugerencias:
 
-- Abre un [Issue](https://github.com/stargame123/Discord-Emoji-Downloader/issues)
+- Abre un [Issue](https://github.com/douglasvelezv/Discord-Emoji-Downloader/issues)
 - Incluye detalles de tu problema
 - Proporciona pasos para reproducir el error
 
 ## 👨‍💻 Autor
 
-**stargame123** - Discord Emoji Downloader
+**douglasvelezv** - Discord Emoji Downloader
 
-- GitHub: [@stargame123](https://github.com/stargame123)
-- Proyecto: [Discord-Emoji-Downloader](https://github.com/stargame123/Discord-Emoji-Downloader)
+- GitHub: [@douglasvelezv](https://github.com/douglasvelezv)
+- Proyecto: [Discord-Emoji-Downloader](https://github.com/douglasvelezv/Discord-Emoji-Downloader)
 
 ## ⭐ Agradecimientos
 
@@ -280,7 +280,7 @@ Si encuentras problemas o tienes sugerencias:
 
 <div align="center">
 
-**Hecho con ❤️ por [stargame123](https://github.com/stargame123)**
+**Hecho con ❤️ por [douglasvelezv](https://github.com/douglasvelezv)**
 
 [⬆ volver arriba](#-discord-emoji-downloader)
 
