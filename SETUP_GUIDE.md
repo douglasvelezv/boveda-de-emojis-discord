@@ -15,7 +15,7 @@
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/stargame123/Discord-Emoji-Downloader.git
+git clone https://github.com/douglasvelezv/boveda-de-emojis-discord.git
 cd Discord-Emoji-Downloader
 ```
 
